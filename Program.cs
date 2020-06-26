@@ -18,7 +18,9 @@ namespace Aula26
             carrinho.AdicionarProduto(p3);
             carrinho.AdicionarProduto(p4);
 
-            
+            carrinho.Listar();
+
+
         }
     }
 }
